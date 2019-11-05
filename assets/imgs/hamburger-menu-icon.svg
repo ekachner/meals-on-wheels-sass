@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="20px" viewBox="0 0 33 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>menu-grabber-bar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-13.000000, -10.000000)" fill="#59452C">
+            <g id="menu-grabber-bar" transform="translate(13.000000, 10.000000)">
+                <rect id="Rectangle" x="0" y="0" width="32.6754098" height="3.07368421" rx="1.5"></rect>
+                <rect id="Rectangle-Copy" x="0" y="16.3929825" width="32.6754098" height="3.07368421" rx="1.5"></rect>
+                <rect id="Rectangle-Copy-2" x="0" y="8.19649123" width="32.6754098" height="3.07368421" rx="1.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

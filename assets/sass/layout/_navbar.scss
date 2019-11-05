@@ -1,1 +1,39 @@
 // NAVBAR
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: #fff0e7;
+}
+
+#top-nav {
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    justify-content: space-around;
+}
+
+#top-nav .nav-item {
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+#top-nav .nav-item:nth-child(2) {
+    margin-left: -51.5px;
+}
+
+#logo img {
+    justify-content: center;
+    padding: 0 40px 0 33px;
+    width: 75px;
+}

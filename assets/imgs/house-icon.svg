@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="32px" viewBox="0 0 34 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>house</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="new-tab-bar" transform="translate(-33.000000, -20.000000)" fill="#59452C">
+            <g id="tab-bar-right-selected" transform="translate(-2.000000, -1.000000)">
+                <g id="tab-bar-left-selected-copy-2">
+                    <path d="M52.5502814,21.1949442 L68.5073637,32.9527943 C68.9519838,33.2804091 69.0468353,33.9064291 68.7192205,34.3510492 C68.5307368,34.6068484 68.2319057,34.7578501 67.9141647,34.7578501 L64.957,34.757 L64.9570823,51.7578501 C64.9570823,52.3101349 64.5093671,52.7578501 63.9570823,52.7578501 L40.9570823,52.7578501 C40.4047976,52.7578501 39.9570823,52.3101349 39.9570823,51.7578501 L39.957,34.757 L36,34.7578501 C35.4477153,34.7578501 35,34.3101349 35,33.7578501 C35,33.4401091 35.1510017,33.141278 35.406801,32.9527943 L51.3638833,21.1949442 C51.7166394,20.9350186 52.1975253,20.9350186 52.5502814,21.1949442 Z" id="house"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

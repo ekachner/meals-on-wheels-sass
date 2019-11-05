@@ -1,1 +1,26 @@
 // FOOTER
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: #fff0e7;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    justify-content: space-around;
+}
+
+#bottom-nav {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    justify-content: space-around;
+    padding: 10px 0;
+}
